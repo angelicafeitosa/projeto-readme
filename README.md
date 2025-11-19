@@ -35,7 +35,7 @@ Acredito que tecnologia não precisa ser complicada para ser poderosa — ela s�
 
 ---
 
-# 🎀 Tecnologias & Ferramentas (fofinhas + profissionais)
+# 🎀 Tecnologias & Ferramentas
 
 ### 💻 Frontend
 <p align="left">
