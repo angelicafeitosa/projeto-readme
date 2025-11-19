@@ -111,7 +111,7 @@ Acredito que tecnologia não precisa ser complicada para ser poderosa — ela s�
 
 # 📚 Formação  
 **Tecnologia em Análise e Desenvolvimento de Sistemas — UEPB**  
-Conclusão: **2025**
+Conclusão: **Set/2025**
 
 ---
 
